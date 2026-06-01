@@ -29,7 +29,7 @@ A lightweight Intrusion Detection System (IDS) built using Python and Scapy for 
 ```bash
 MiniIDS/
 │
-├── ids.py
+├── miniids.py
 ├── README.md
 └── requirements.txt
 ```
