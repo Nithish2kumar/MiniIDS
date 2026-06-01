@@ -61,7 +61,7 @@ pip install scapy
 ## ▶️ Running the IDS
 
 ```bash
-sudo python3 ids.py
+sudo python3 miniids.py
 ```
 
 ---
