@@ -2,7 +2,7 @@ from scapy.all import *
 from collections import defaultdict
 import time
 
-SYN_THRESHOLD = 10
+SYN_THRESHOLD = 20
 PORTSCAN_THRESHOLD = 15
 TIME_WINDOW = 10
 
