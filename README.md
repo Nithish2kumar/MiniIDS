@@ -91,7 +91,7 @@ Detects suspicious scanning behavior when multiple ports are targeted rapidly.
 
 ```bash
 [SYN] 192.168.1.5 -> 192.168.1.1:80
-Count: 11
+Count: 21
 
 ==================================================
 [ALERT] Possible SYN Flood Attack from 192.168.1.5
